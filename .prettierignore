@@ -1,0 +1,5 @@
+node_modules/
+.next/
+pnpm-lock.yaml
+src/lib/shared/data/algerian-administrative-areas.json
+next-env.d.ts
